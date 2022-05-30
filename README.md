@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 <!--
+[![GoToNightmare GitHub stats](https://github-readme-stats.vercel.app/api?username=GoToNightmare)](https://github.com/GoToNightmare/github-readme-stats)
+-->
+
+<!--
 **GoToNightmare/GoToNightmare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
